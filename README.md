@@ -1,4 +1,4 @@
-<h2 align="left">ZzZz</h2>
+<h2 align="left">Coding...</h2>
 
 ###
 
@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBzM245MHZqcWVwMjIxbmoyc2UyamZ1MmMxZWtscWd5enJrOHlxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rLzDYazQXFAhlmU0xx/giphy.gif"  />
+<img src="https://raw.githubusercontent.com/B4san/B4san/output/snake.svg" alt="Snake animation" />
 
 ###
