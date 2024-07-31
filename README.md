@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<iframe src="https://giphy.com/embed/rLzDYazQXFAhlmU0xx" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-qr-rLzDYazQXFAhlmU0xx">via GIPHY</a></p>
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBzM245MHZqcWVwMjIxbmoyc2UyamZ1MmMxZWtscWd5enJrOHlxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rLzDYazQXFAhlmU0xx/giphy.gif"  />
 
 ###
